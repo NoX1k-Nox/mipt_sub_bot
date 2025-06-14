@@ -1,0 +1,1707 @@
+2025-06-12 18:54:51,537 - __main__ - INFO - Starting bot...
+2025-06-12 18:54:51,591 - __main__ - INFO - Routers and middleware included
+2025-06-12 18:54:51,592 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-12 18:54:51,595 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-12 18:54:51,596 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-12 18:54:51,596 - scheduler - INFO - Scheduler set up
+2025-06-12 18:54:51,596 - aiogram.dispatcher - INFO - Start polling
+2025-06-12 18:54:52,042 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-12 18:55:55,964 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-12 18:55:56,403 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-12 18:55:56,403 - aiogram.event - INFO - Update id=449602517 is handled. Duration 439 ms by bot id=7921957055
+2025-06-12 18:55:57,909 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-12 18:55:58,892 - bot.handlers.payments - ERROR - Error creating payment for user 435204858: name 'get_reminder_keyboard' is not defined
+2025-06-12 18:55:59,401 - aiogram.event - INFO - Update id=449602518 is handled. Duration 1493 ms by bot id=7921957055
+2025-06-12 18:57:12,391 - __main__ - INFO - Starting bot...
+2025-06-12 18:57:12,451 - __main__ - INFO - Routers and middleware included
+2025-06-12 18:57:12,452 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-12 18:57:12,455 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-12 18:57:12,455 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-12 18:57:12,455 - scheduler - INFO - Scheduler set up
+2025-06-12 18:57:12,456 - aiogram.dispatcher - INFO - Start polling
+2025-06-12 18:57:12,871 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-12 18:57:52,055 - __main__ - INFO - Starting bot...
+2025-06-12 18:57:52,109 - __main__ - INFO - Routers and middleware included
+2025-06-12 18:57:52,110 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-12 18:57:52,113 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-12 18:57:52,113 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-12 18:57:52,113 - scheduler - INFO - Scheduler set up
+2025-06-12 18:57:52,113 - aiogram.dispatcher - INFO - Start polling
+2025-06-12 18:57:52,494 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-12 18:57:57,887 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-12 18:57:58,558 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-12 18:57:58,558 - aiogram.event - INFO - Update id=449602519 is handled. Duration 671 ms by bot id=7921957055
+2025-06-12 18:58:00,042 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-12 18:58:00,964 - bot.handlers.payments - INFO - Sent payment link ef094a87-3b6c-42e3-a698-50820e6a6a06 to user 435204858
+2025-06-12 18:58:01,144 - aiogram.event - INFO - Update id=449602520 is handled. Duration 1104 ms by bot id=7921957055
+2025-06-12 19:03:51,133 - __main__ - INFO - Starting bot...
+2025-06-12 19:03:51,393 - __main__ - INFO - Routers and middleware included
+2025-06-12 19:03:51,393 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-12 19:03:51,396 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-12 19:03:51,401 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-12 19:03:51,401 - scheduler - INFO - Scheduler set up
+2025-06-12 19:03:51,402 - aiogram.dispatcher - INFO - Start polling
+2025-06-12 19:03:51,853 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-13 00:45:55,204 - __main__ - INFO - Starting bot...
+2025-06-13 00:45:55,258 - __main__ - INFO - Routers and middleware included
+2025-06-13 00:45:55,259 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 00:45:55,262 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-13 00:45:55,262 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-13 00:45:55,263 - scheduler - INFO - Scheduler set up
+2025-06-13 00:45:55,263 - aiogram.dispatcher - INFO - Start polling
+2025-06-13 00:45:55,668 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-13 00:48:16,687 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-13 00:48:17,109 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-13 00:48:17,109 - aiogram.event - INFO - Update id=449602521 is handled. Duration 423 ms by bot id=7921957055
+2025-06-13 00:48:24,605 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-13 00:48:25,792 - bot.handlers.payments - INFO - Sent payment link cb4a0d84-8955-44fd-8353-0aa81e2487f2 to user 435204858
+2025-06-13 00:48:25,886 - aiogram.event - INFO - Update id=449602522 is handled. Duration 1282 ms by bot id=7921957055
+2025-06-13 16:04:27,829 - __main__ - INFO - Starting bot...
+2025-06-13 16:04:27,870 - __main__ - INFO - Routers and middleware included
+2025-06-13 16:04:27,870 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 16:04:27,872 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-13 16:04:27,872 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-13 16:04:27,872 - scheduler - INFO - Scheduler set up
+2025-06-13 16:04:27,873 - aiogram.dispatcher - INFO - Start polling
+2025-06-13 16:04:28,208 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-13 16:04:46,522 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-13 16:04:47,088 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-13 16:04:47,088 - aiogram.event - INFO - Update id=449602547 is handled. Duration 566 ms by bot id=7921957055
+2025-06-13 16:05:56,315 - __main__ - INFO - Starting bot...
+2025-06-13 16:05:56,358 - __main__ - INFO - Routers and middleware included
+2025-06-13 16:05:56,359 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 16:05:56,360 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-13 16:05:56,360 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-13 16:05:56,360 - scheduler - INFO - Scheduler set up
+2025-06-13 16:05:56,360 - aiogram.dispatcher - INFO - Start polling
+2025-06-13 16:05:56,785 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-13 16:06:04,699 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-13 16:06:05,174 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-13 16:06:05,174 - aiogram.event - INFO - Update id=449602548 is handled. Duration 475 ms by bot id=7921957055
+2025-06-13 16:07:12,913 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-13 16:07:13,318 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-13 16:07:13,319 - aiogram.event - INFO - Update id=449602549 is handled. Duration 405 ms by bot id=7921957055
+2025-06-13 16:07:49,568 - bot.handlers.start - INFO - Processing /start for user 450966825
+2025-06-13 16:07:50,333 - bot.handlers.start - INFO - Started registration for user 450966825
+2025-06-13 16:07:50,333 - aiogram.event - INFO - Update id=449602550 is handled. Duration 765 ms by bot id=7921957055
+2025-06-13 16:07:50,562 - bot.handlers.start - INFO - Processing /start for user 450966825
+2025-06-13 16:07:50,888 - bot.handlers.start - INFO - Started registration for user 450966825
+2025-06-13 16:07:50,888 - aiogram.event - INFO - Update id=449602551 is handled. Duration 325 ms by bot id=7921957055
+2025-06-13 16:25:45,327 - __main__ - INFO - Starting bot...
+2025-06-13 16:25:45,375 - __main__ - INFO - Routers and middleware included
+2025-06-13 16:25:45,375 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 16:25:45,377 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-13 16:25:45,378 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-13 16:25:45,378 - scheduler - INFO - Scheduler set up
+2025-06-13 16:25:45,378 - aiogram.dispatcher - INFO - Start polling
+2025-06-13 16:25:45,757 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-13 16:26:05,206 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-13 16:26:05,841 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-13 16:26:05,842 - aiogram.event - INFO - Update id=449602552 is handled. Duration 636 ms by bot id=7921957055
+2025-06-13 16:26:16,084 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-13 16:26:16,621 - bot.handlers.payments - INFO - Sent payment link ca25d6b2-e3f6-4e2a-a4ec-105824ae5c5c to user 435204858
+2025-06-13 16:26:16,715 - aiogram.event - INFO - Update id=449602553 is handled. Duration 632 ms by bot id=7921957055
+2025-06-13 16:26:22,502 - aiogram.event - INFO - Update id=449602554 is not handled. Duration 2 ms by bot id=7921957055
+2025-06-13 16:27:00,714 - __main__ - INFO - Starting bot...
+2025-06-13 16:27:00,753 - __main__ - INFO - Routers and middleware included
+2025-06-13 16:27:00,753 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 16:27:00,756 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-13 16:27:00,756 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-13 16:27:00,756 - scheduler - INFO - Scheduler set up
+2025-06-13 16:27:00,757 - aiogram.dispatcher - INFO - Start polling
+2025-06-13 16:27:01,272 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-13 16:27:13,779 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-13 16:27:14,388 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-13 16:27:14,388 - aiogram.event - INFO - Update id=449602555 is handled. Duration 609 ms by bot id=7921957055
+2025-06-13 16:27:18,182 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-13 16:27:19,035 - bot.handlers.payments - INFO - Sent payment link 6f5b326b-442a-45cc-8f44-613fa0a6ab8e to user 435204858
+2025-06-13 16:27:19,215 - aiogram.event - INFO - Update id=449602556 is handled. Duration 1034 ms by bot id=7921957055
+2025-06-14 00:37:41,509 - __main__ - INFO - Starting bot...
+2025-06-14 00:37:41,560 - __main__ - INFO - Routers and middleware included
+2025-06-14 00:37:41,561 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 00:37:41,564 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 00:37:41,564 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 00:37:41,564 - scheduler - INFO - Scheduler set up
+2025-06-14 00:37:41,564 - aiogram.dispatcher - INFO - Start polling
+2025-06-14 00:37:41,904 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-14 00:38:15,477 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 00:38:16,491 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 00:38:16,491 - aiogram.event - INFO - Update id=449602557 is handled. Duration 1015 ms by bot id=7921957055
+2025-06-14 00:38:21,572 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 00:38:22,480 - bot.handlers.payments - INFO - Sent payment link 45933161-d675-47cc-a090-126bd23fe149 to user 435204858
+2025-06-14 00:38:22,696 - aiogram.event - INFO - Update id=449602558 is handled. Duration 1124 ms by bot id=7921957055
+2025-06-14 00:38:36,633 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: {'type': 'error', 'id': '01976b3a-f9cd-7939-b493-140d4f466e07', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 00:38:36,752 - aiogram.event - INFO - Update id=449602559 is handled. Duration 404 ms by bot id=7921957055
+2025-06-14 00:38:51,199 - bot.handlers.payments - INFO - Checking payment for user 435204858
+2025-06-14 00:38:51,576 - bot.handlers.payments - ERROR - Error checking payment for user 435204858: {'type': 'error', 'id': '01976b3b-342d-7d87-83ec-30cf395c1488', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 00:38:51,751 - aiogram.event - INFO - Update id=449602560 is handled. Duration 554 ms by bot id=7921957055
+2025-06-14 00:39:26,841 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 00:39:29,940 - bot.handlers.payments - INFO - Sent payment link 94e77f2a-2958-4e9b-a5eb-a9c7eb123514 to user 435204858
+2025-06-14 00:39:30,038 - aiogram.event - INFO - Update id=449602561 is handled. Duration 3199 ms by bot id=7921957055
+2025-06-14 00:39:37,176 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: {'type': 'error', 'id': '01976b3b-e656-7347-b3a8-3bd5fab5cdf2', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 00:39:37,386 - aiogram.event - INFO - Update id=449602562 is handled. Duration 608 ms by bot id=7921957055
+2025-06-14 00:43:55,455 - __main__ - INFO - Starting bot...
+2025-06-14 00:43:55,507 - __main__ - INFO - Routers and middleware included
+2025-06-14 00:43:55,508 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 00:43:55,510 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 00:43:55,511 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 00:43:55,511 - scheduler - INFO - Scheduler set up
+2025-06-14 00:43:55,511 - aiogram.dispatcher - INFO - Start polling
+2025-06-14 00:43:57,149 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-14 00:44:05,813 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 00:44:06,335 - bot.handlers.start - INFO - Started registration for user 435204858
+2025-06-14 00:44:06,336 - aiogram.event - INFO - Update id=449602563 is handled. Duration 523 ms by bot id=7921957055
+2025-06-14 00:44:16,005 - bot.handlers.registration - INFO - Processing FIO for user 435204858
+2025-06-14 00:44:16,298 - bot.handlers.registration - INFO - Stored FIO and sent status selection to user 435204858
+2025-06-14 00:44:16,299 - aiogram.event - INFO - Update id=449602564 is handled. Duration 296 ms by bot id=7921957055
+2025-06-14 00:44:20,321 - bot.handlers.menu - INFO - Processing status selection for user 435204858
+2025-06-14 00:44:20,327 - dao.user_dao - INFO - Created user 435204858
+2025-06-14 00:44:20,789 - aiogram.event - INFO - Update id=449602565 is handled. Duration 469 ms by bot id=7921957055
+2025-06-14 00:44:28,722 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 00:44:29,357 - bot.handlers.payments - INFO - Sent payment link 1161be70-7c6e-4807-a604-43bd5d9b0a23 to user 435204858
+2025-06-14 00:44:29,468 - aiogram.event - INFO - Update id=449602566 is handled. Duration 747 ms by bot id=7921957055
+2025-06-14 00:52:45,133 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-06-14 00:52:45,138 - aiogram.dispatcher - INFO - Polling stopped for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-14 00:52:45,139 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-14 01:02:02,619 - __main__ - INFO - Starting bot...
+2025-06-14 01:02:02,744 - __main__ - INFO - Routers and middleware included
+2025-06-14 01:02:02,744 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 01:02:02,748 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 01:02:02,748 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 01:02:02,749 - scheduler - INFO - Scheduler set up
+2025-06-14 01:02:02,749 - aiogram.dispatcher - INFO - Start polling
+2025-06-14 01:02:03,107 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-14 01:02:14,746 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 01:02:15,170 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 01:02:15,170 - aiogram.event - INFO - Update id=449602567 is handled. Duration 424 ms by bot id=7921957055
+2025-06-14 01:02:18,244 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 01:02:18,988 - bot.handlers.payments - INFO - Sent payment link b1d6a854-32ed-46a8-9a1a-cff1ff1b8711 to user 435204858
+2025-06-14 01:02:19,086 - aiogram.event - INFO - Update id=449602568 is handled. Duration 843 ms by bot id=7921957055
+2025-06-14 01:02:33,774 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: {'type': 'error', 'id': '01976b50-e714-7806-8394-2a696600831d', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 01:02:33,888 - aiogram.event - INFO - Update id=449602569 is handled. Duration 568 ms by bot id=7921957055
+2025-06-14 01:09:03,917 - __main__ - INFO - Starting bot...
+2025-06-14 01:09:03,972 - __main__ - INFO - Routers and middleware included
+2025-06-14 01:09:03,973 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 01:09:03,976 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 01:09:03,976 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 01:09:03,977 - scheduler - INFO - Scheduler set up
+2025-06-14 01:09:03,977 - aiogram.dispatcher - INFO - Start polling
+2025-06-14 01:09:04,453 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-14 01:09:30,695 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 01:09:31,068 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 01:09:31,068 - aiogram.event - INFO - Update id=449602570 is handled. Duration 374 ms by bot id=7921957055
+2025-06-14 01:09:32,410 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 01:09:33,246 - bot.handlers.payments - INFO - Sent payment link ba611b07-3ae1-405c-81b3-a2f504de2d2e to user 435204858
+2025-06-14 01:09:33,426 - aiogram.event - INFO - Update id=449602571 is handled. Duration 1017 ms by bot id=7921957055
+2025-06-14 01:09:41,090 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: {'type': 'error', 'id': '01976b57-6cac-70aa-a213-1d3c9e15b054', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 01:09:41,286 - aiogram.event - INFO - Update id=449602572 is handled. Duration 685 ms by bot id=7921957055
+2025-06-13 22:42:13,661 - __main__ - INFO - Starting bot...
+2025-06-13 22:42:13,670 - __main__ - INFO - Routers and middleware included
+2025-06-13 22:42:13,670 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 22:42:13,671 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-13 22:42:13,671 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-13 22:42:13,672 - scheduler - INFO - Scheduler set up
+2025-06-13 22:42:13,672 - aiogram.dispatcher - INFO - Start polling
+2025-06-13 22:42:13,858 - aiogram.dispatcher - INFO - Run polling for bot @MIPTPAYBot id=7921957055 - 'Членство Физтех-Союз'
+2025-06-13 22:42:30,957 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-13 22:42:31,069 - bot.handlers.start - INFO - Started registration for user 435204858
+2025-06-13 22:42:31,069 - aiogram.event - INFO - Update id=449602576 is handled. Duration 112 ms by bot id=7921957055
+2025-06-13 22:42:36,733 - bot.handlers.registration - INFO - Processing FIO for user 435204858
+2025-06-13 22:42:36,860 - bot.handlers.registration - INFO - Stored FIO and sent status selection to user 435204858
+2025-06-13 22:42:36,861 - aiogram.event - INFO - Update id=449602577 is handled. Duration 132 ms by bot id=7921957055
+2025-06-13 22:42:38,512 - bot.handlers.menu - INFO - Processing status selection for user 435204858
+2025-06-13 22:42:38,604 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-13 22:42:38,612 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-13 22:42:38,612 - dao.user_dao - INFO - Created user 435204858
+2025-06-13 22:42:38,679 - aiogram.event - INFO - Update id=449602578 is handled. Duration 168 ms by bot id=7921957055
+2025-06-13 22:56:04,758 - __main__ - INFO - Starting bot...
+2025-06-13 22:56:04,768 - __main__ - INFO - Routers and middleware included
+2025-06-13 22:56:04,769 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 22:56:04,770 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-13 22:56:04,770 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-13 22:56:04,770 - scheduler - INFO - Scheduler set up
+2025-06-13 22:58:35,370 - __main__ - INFO - Starting bot...
+2025-06-13 22:58:35,384 - __main__ - INFO - Routers and middleware included
+2025-06-13 22:58:35,385 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 22:58:35,386 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-13 22:58:35,386 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-13 22:58:35,386 - scheduler - INFO - Scheduler set up
+2025-06-13 22:58:35,673 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-2' coro=<_run_app() running at /home/vps/telegram_bot/venv/lib/python3.11/site-packages/aiohttp/web.py:301> cb=[gather.<locals>._done_callback() at /usr/lib/python3.11/asyncio/tasks.py:764]>
+2025-06-13 23:11:01,696 - __main__ - INFO - Starting bot...
+2025-06-13 23:11:01,696 - __main__ - INFO - Routers and middleware included
+2025-06-13 23:11:01,697 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 23:11:01,697 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-13 23:11:01,698 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-13 23:11:01,698 - scheduler - INFO - Scheduler set up
+2025-06-14 01:54:51,634 - __main__ - INFO - Starting bot...
+2025-06-14 01:54:51,636 - __main__ - INFO - Routers and middleware included
+2025-06-14 01:54:51,636 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 01:54:51,637 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 01:54:51,637 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 01:54:51,637 - scheduler - INFO - Scheduler set up
+2025-06-14 02:02:10,327 - __main__ - INFO - Starting bot...
+2025-06-14 02:02:10,327 - __main__ - INFO - Routers and middleware included
+2025-06-14 02:02:10,327 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 02:02:10,328 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 02:02:10,328 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 02:02:10,328 - scheduler - INFO - Scheduler set up
+2025-06-14 02:03:34,947 - __main__ - INFO - Starting bot...
+2025-06-14 02:03:34,947 - __main__ - INFO - Routers and middleware included
+2025-06-14 02:03:34,948 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 02:03:34,948 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 02:03:34,949 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 02:03:34,949 - scheduler - INFO - Scheduler set up
+2025-06-14 02:05:17,672 - __main__ - INFO - Starting bot...
+2025-06-14 02:05:17,673 - __main__ - INFO - Routers and middleware included
+2025-06-14 02:05:17,673 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 02:05:17,674 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 02:05:17,674 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 02:05:17,674 - scheduler - INFO - Scheduler set up
+2025-06-14 02:05:17,729 - __main__ - INFO - Webhook set to https://185.223.93.139:8443/7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM
+2025-06-14 02:05:17,897 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1475b22090>
+2025-06-14 02:05:17,898 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f1475a8bcb0>, 93787.787821468)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f147874a690>
+2025-06-14 02:20:42,014 - __main__ - INFO - Starting bot...
+2025-06-14 02:20:42,014 - __main__ - INFO - Routers and middleware included
+2025-06-14 02:20:42,014 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 02:20:42,015 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 02:20:42,015 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 02:20:42,015 - scheduler - INFO - Scheduler set up
+2025-06-14 02:20:42,214 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f7e0a1dd810>
+2025-06-14 02:20:42,215 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f7e0a14bcb0>, 94712.094893586)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f7e0cb17e10>
+2025-06-14 02:25:02,017 - __main__ - INFO - Starting bot...
+2025-06-14 02:25:02,017 - __main__ - INFO - Routers and middleware included
+2025-06-14 02:25:02,017 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 02:25:02,018 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 02:25:02,018 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 02:25:02,018 - scheduler - INFO - Scheduler set up
+2025-06-14 02:25:02,062 - __main__ - INFO - Webhook set to https://185.223.93.139:8443/7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM
+2025-06-14 02:37:14,920 - __main__ - INFO - Starting bot...
+2025-06-14 02:37:14,920 - __main__ - INFO - Routers and middleware included
+2025-06-14 02:37:14,920 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 02:37:14,921 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 02:37:14,921 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 02:37:14,921 - scheduler - INFO - Scheduler set up
+2025-06-14 02:37:14,965 - __main__ - INFO - Webhook set to https://185.223.93.139:8443/MIPTPAYBot
+2025-06-14 03:38:15,510 - __main__ - INFO - Starting bot...
+2025-06-14 03:38:15,511 - __main__ - INFO - Routers and middleware included
+2025-06-14 03:38:15,511 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 03:38:15,512 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 03:38:15,512 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 03:38:15,512 - scheduler - INFO - Scheduler set up
+2025-06-14 03:38:15,533 - __main__ - INFO - Webhook set to https://185.223.93.139:8443/7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM
+2025-06-14 04:00:27,927 - __main__ - INFO - Starting bot...
+2025-06-14 04:00:27,927 - __main__ - INFO - Routers and middleware included
+2025-06-14 04:00:27,928 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 04:00:27,929 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 04:00:27,929 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 04:00:27,929 - scheduler - INFO - Scheduler set up
+2025-06-14 04:00:27,979 - __main__ - INFO - Webhook set to https://0f46-185-223-93-139.ngrok-free.app/7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM
+2025-06-14 04:00:27,980 - __main__ - ERROR - Failed to start web server: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8443): address already in use
+2025-06-14 04:00:28,074 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f06d0409d50>
+2025-06-14 04:00:28,075 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f06d0377cb0>, 100698.038227113)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f06d2c9ad90>
+2025-06-14 04:05:26,578 - __main__ - INFO - Starting bot...
+2025-06-14 04:05:26,578 - __main__ - INFO - Routers and middleware included
+2025-06-14 04:05:26,579 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 04:05:26,579 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 04:05:26,580 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 04:05:26,580 - scheduler - INFO - Scheduler set up
+2025-06-14 04:05:26,614 - __main__ - INFO - Webhook set successfully
+2025-06-14 04:05:26,615 - __main__ - INFO - Web server started on port 8443
+2025-06-14 04:05:48,662 - __main__ - INFO - Received webhook request: {"update_id":449602582,
+"message":{"message_id":1454,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749873948,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:05:48,681 - __main__ - ERROR - Error processing webhook: Dispatcher.feed_webhook_update() missing 1 required positional argument: 'bot'
+2025-06-14 04:05:48,682 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:05:48 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 500 177 "-" "-"
+2025-06-14 04:05:48,697 - __main__ - INFO - Received webhook request: {"update_id":449602582,
+"message":{"message_id":1454,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749873948,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:05:48,701 - __main__ - ERROR - Error processing webhook: Dispatcher.feed_webhook_update() missing 1 required positional argument: 'bot'
+2025-06-14 04:05:48,701 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:05:48 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 500 177 "-" "-"
+2025-06-14 04:05:50,717 - __main__ - INFO - Received webhook request: {"update_id":449602582,
+"message":{"message_id":1454,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749873948,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:05:50,728 - __main__ - ERROR - Error processing webhook: Dispatcher.feed_webhook_update() missing 1 required positional argument: 'bot'
+2025-06-14 04:05:50,728 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:05:50 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 500 177 "-" "-"
+2025-06-14 04:05:54,744 - __main__ - INFO - Received webhook request: {"update_id":449602582,
+"message":{"message_id":1454,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749873948,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:05:54,748 - __main__ - ERROR - Error processing webhook: Dispatcher.feed_webhook_update() missing 1 required positional argument: 'bot'
+2025-06-14 04:05:54,749 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:05:54 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 500 177 "-" "-"
+2025-06-14 04:06:02,765 - __main__ - INFO - Received webhook request: {"update_id":449602582,
+"message":{"message_id":1454,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749873948,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:06:02,769 - __main__ - ERROR - Error processing webhook: Dispatcher.feed_webhook_update() missing 1 required positional argument: 'bot'
+2025-06-14 04:06:02,769 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:06:02 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 500 177 "-" "-"
+2025-06-14 04:12:10,063 - __main__ - INFO - Starting bot...
+2025-06-14 04:12:10,064 - __main__ - INFO - Routers and middleware included
+2025-06-14 04:12:10,064 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 04:12:10,065 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 04:12:10,065 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 04:12:10,065 - scheduler - INFO - Scheduler set up
+2025-06-14 04:12:10,101 - __main__ - INFO - Webhook set successfully
+2025-06-14 04:12:10,102 - __main__ - INFO - Web server started on port 8443
+2025-06-14 04:12:32,494 - __main__ - INFO - Bot stopped by user
+2025-06-14 04:12:32,587 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7fa96d2e21d0>
+2025-06-14 04:13:49,279 - __main__ - INFO - Starting bot...
+2025-06-14 04:13:49,279 - __main__ - INFO - Routers and middleware included
+2025-06-14 04:13:49,280 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 04:13:49,280 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 04:13:49,280 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 04:13:49,281 - scheduler - INFO - Scheduler set up
+2025-06-14 04:13:49,296 - __main__ - INFO - Webhook set successfully
+2025-06-14 04:13:49,296 - __main__ - INFO - Web server started on port 8443
+2025-06-14 04:14:05,104 - __main__ - INFO - Received webhook request: {"update_id":449602583,
+"message":{"message_id":1455,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874445,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:14:05,105 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 04:14:05,412 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 04:14:05,413 - aiogram.event - INFO - Update id=449602583 is handled. Duration 308 ms by bot id=7921957055
+2025-06-14 04:14:05,414 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:14:05 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:14:10,520 - __main__ - INFO - Received webhook request: {"update_id":449602584,
+"callback_query":{"id":"1869190633459228171","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1456,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874445,"text":"\u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447, \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u0442 \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437\u0430 \ud83d\udc99\n\n\u041e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u0412\u0430\u0448 \u0441\u0442\u0430\u0442\u0443\u0441: \u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50000 \u0440\u0443\u0431.\n\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439","entities":[{"offset":218,"length":21,"type":"text_link","url":"https://phystech-union.org/wp-content/uploads/2019/06/dog.pdf"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 04:14:10,522 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 04:14:11,036 - bot.handlers.payments - INFO - Sent payment link 7522ad90-7445-48e8-96c8-992e9741cde7 to user 435204858
+2025-06-14 04:14:11,058 - aiogram.event - INFO - Update id=449602584 is handled. Duration 536 ms by bot id=7921957055
+2025-06-14 04:14:11,058 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:14:10 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:14:18,678 - __main__ - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf0ad2-000f-5001-9000-10097d807851",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf0ad2-000f-5001-9000-10097d807851",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T04:14:18.172Z",
+    "created_at" : "2025-06-14T04:14:10.888Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "7522ad90-7445-48e8-96c8-992e9741cde7"
+    }
+  }
+}
+2025-06-14 04:14:18,679 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:14:18 +0000] "POST /yookassa HTTP/1.1" 200 155 "-" "AHC/2.1"
+2025-06-14 04:14:30,070 - __main__ - INFO - Received webhook request: {"update_id":449602585,
+"message":{"message_id":1458,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874470,"text":"/start payment_success_7522ad90-7445-48e8-96c8-992e9741cde7","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:14:30,232 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: {'type': 'error', 'id': '01976ca5-6d3b-759c-87a2-a2180d65bfa6', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 04:14:30,268 - aiogram.event - INFO - Update id=449602585 is handled. Duration 196 ms by bot id=7921957055
+2025-06-14 04:14:30,268 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:14:30 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:14:44,142 - __main__ - INFO - Received webhook request: {"update_id":449602586,
+"message":{"message_id":1460,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874484,"text":"/check_payment","entities":[{"offset":0,"length":14,"type":"bot_command"}]}}
+2025-06-14 04:14:44,145 - bot.handlers.payments - INFO - Checking payment for user 435204858
+2025-06-14 04:14:44,304 - bot.handlers.payments - ERROR - Error checking payment for user 435204858: {'type': 'error', 'id': '01976ca5-a433-7deb-9190-b585b0fb580a', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 04:14:44,327 - aiogram.event - INFO - Update id=449602586 is handled. Duration 183 ms by bot id=7921957055
+2025-06-14 04:14:44,328 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:14:44 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:14:49,653 - __main__ - INFO - Received webhook request: {"update_id":449602587,
+"callback_query":{"id":"1869190634825723146","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1461,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874484,"text":"\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435 \u043f\u043b\u0430\u0442\u0435\u0436\u0430. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u043f\u043e\u0437\u0436\u0435 \u0438\u043b\u0438 \u043e\u0431\u0440\u0430\u0442\u0438\u0442\u0435\u0441\u044c \u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443.","reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 04:14:49,670 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 04:14:49,959 - bot.handlers.payments - INFO - Sent payment link 9769a0b4-76c6-4019-99f5-e2e77bc0c122 to user 435204858
+2025-06-14 04:14:49,980 - aiogram.event - INFO - Update id=449602587 is handled. Duration 310 ms by bot id=7921957055
+2025-06-14 04:14:49,981 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:14:49 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:14:55,734 - __main__ - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf0af9-000f-5000-8000-1034b3428530",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf0af9-000f-5000-8000-1034b3428530",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T04:14:55.483Z",
+    "created_at" : "2025-06-14T04:14:49.861Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "9769a0b4-76c6-4019-99f5-e2e77bc0c122"
+    }
+  }
+}
+2025-06-14 04:14:55,735 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:14:55 +0000] "POST /yookassa HTTP/1.1" 200 155 "-" "AHC/2.1"
+2025-06-14 04:15:00,670 - __main__ - INFO - Received webhook request: {"update_id":449602588,
+"message":{"message_id":1463,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874500,"text":"/start payment_success_9769a0b4-76c6-4019-99f5-e2e77bc0c122","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:15:00,817 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: {'type': 'error', 'id': '01976ca5-e4b3-7ef0-bc5c-6516492165d3', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 04:15:00,853 - aiogram.event - INFO - Update id=449602588 is handled. Duration 182 ms by bot id=7921957055
+2025-06-14 04:15:00,854 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:15:00 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:15:03,638 - __main__ - INFO - Received webhook request: {"update_id":449602589,
+"message":{"message_id":1465,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874503,"text":"/start payment_success_9769a0b4-76c6-4019-99f5-e2e77bc0c122","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:15:03,783 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: {'type': 'error', 'id': '01976ca5-f04a-7543-aadd-8ca43cc275cd', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 04:15:03,851 - aiogram.event - INFO - Update id=449602589 is handled. Duration 212 ms by bot id=7921957055
+2025-06-14 04:15:03,852 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:15:03 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:17:58,837 - __main__ - INFO - Bot stopped by user
+2025-06-14 04:20:37,329 - __main__ - INFO - Starting bot...
+2025-06-14 04:20:37,330 - __main__ - INFO - Routers and middleware included
+2025-06-14 04:20:37,330 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 04:20:37,330 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 04:20:37,331 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 04:20:37,331 - scheduler - INFO - Scheduler set up
+2025-06-14 04:20:37,350 - __main__ - INFO - Webhook set successfully
+2025-06-14 04:20:37,351 - __main__ - INFO - Web server started on port 8443
+2025-06-14 04:21:01,132 - __main__ - INFO - Received webhook request: {"update_id":449602590,
+"message":{"message_id":1467,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874861,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:21:01,134 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 04:21:01,227 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 04:21:01,228 - aiogram.event - INFO - Update id=449602590 is handled. Duration 94 ms by bot id=7921957055
+2025-06-14 04:21:01,228 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:21:01 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:21:09,376 - __main__ - INFO - Received webhook request: {"update_id":449602591,
+"callback_query":{"id":"1869190636259779795","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1468,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874861,"text":"\u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447, \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u0442 \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437\u0430 \ud83d\udc99\n\n\u041e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u0412\u0430\u0448 \u0441\u0442\u0430\u0442\u0443\u0441: \u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50000 \u0440\u0443\u0431.\n\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439","entities":[{"offset":218,"length":21,"type":"text_link","url":"https://phystech-union.org/wp-content/uploads/2019/06/dog.pdf"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 04:21:09,378 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 04:21:09,864 - bot.handlers.payments - INFO - Sent payment link 82480b47-0576-429f-bacc-ebf58609c61b to user 435204858
+2025-06-14 04:21:09,927 - aiogram.event - INFO - Update id=449602591 is handled. Duration 550 ms by bot id=7921957055
+2025-06-14 04:21:09,928 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:21:09 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:21:38,454 - __main__ - INFO - Received webhook request: {"update_id":449602592,
+"message":{"message_id":1470,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874898,"text":"/start payment_success_82480b47-0576-429f-bacc-ebf58609c61b","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:21:38,609 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: {'type': 'error', 'id': '01976cab-f695-78b3-aa88-b05481085c0b', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 04:21:38,666 - aiogram.event - INFO - Update id=449602592 is handled. Duration 211 ms by bot id=7921957055
+2025-06-14 04:21:38,667 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:21:38 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:22:02,306 - __main__ - INFO - Received webhook request: {"update_id":449602593,
+"message":{"message_id":1472,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749874922,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:22:02,307 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 04:22:02,371 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 04:22:02,371 - aiogram.event - INFO - Update id=449602593 is handled. Duration 64 ms by bot id=7921957055
+2025-06-14 04:22:02,372 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:22:02 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:24:03,396 - __main__ - INFO - Bot stopped by user
+2025-06-14 04:34:50,834 - __main__ - INFO - Starting bot...
+2025-06-14 04:34:50,834 - __main__ - INFO - Routers and middleware included
+2025-06-14 04:34:50,834 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 04:34:50,835 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 04:34:50,835 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 04:34:50,836 - scheduler - INFO - Scheduler set up
+2025-06-14 04:34:50,863 - __main__ - INFO - Webhook set successfully
+2025-06-14 04:34:50,864 - __main__ - INFO - Web server started on port 8443
+2025-06-14 04:35:07,411 - __main__ - INFO - Received webhook request: {"update_id":449602594,
+"message":{"message_id":1474,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749875707,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:35:07,412 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 04:35:07,489 - bot.handlers.start - INFO - Started registration for user 435204858
+2025-06-14 04:35:07,490 - aiogram.event - INFO - Update id=449602594 is handled. Duration 77 ms by bot id=7921957055
+2025-06-14 04:35:07,490 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:35:07 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:35:13,203 - __main__ - INFO - Received webhook request: {"update_id":449602595,
+"message":{"message_id":1476,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749875713,"text":"\u041b\u0435\u0431\u0435\u0434\u0435\u0432 \u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447"}}
+2025-06-14 04:35:13,205 - bot.handlers.registration - INFO - Processing FIO for user 435204858
+2025-06-14 04:35:13,248 - bot.handlers.registration - INFO - Stored FIO and sent status selection to user 435204858
+2025-06-14 04:35:13,248 - aiogram.event - INFO - Update id=449602595 is handled. Duration 44 ms by bot id=7921957055
+2025-06-14 04:35:13,249 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:35:13 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:35:14,736 - __main__ - INFO - Received webhook request: {"update_id":449602596,
+"callback_query":{"id":"1869190633410646758","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1477,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749875713,"text":"\u0427\u0442\u043e\u0431\u044b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435, \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u0442\u0430\u0442\u0443\u0441 \u0434\u043b\u044f \u043e\u043f\u043b\u0430\u0442\u044b \u043d\u0438\u0436\u0435.","reply_markup":{"inline_keyboard":[[{"text":"\u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50 000 \u0440\u0443\u0431.","callback_data":"status_associate"}],[{"text":"\u041f\u0430\u0440\u0442\u043d\u0435\u0440 | 500 000 \u0440\u0443\u0431.","callback_data":"status_partner"}]]}},"chat_instance":"3791523253817970959","data":"status_associate"}}
+2025-06-14 04:35:14,738 - bot.handlers.menu - INFO - Processing status selection for user 435204858
+2025-06-14 04:35:14,842 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 04:35:14,848 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 04:35:14,848 - dao.user_dao - INFO - Created user 435204858
+2025-06-14 04:35:14,908 - aiogram.event - INFO - Update id=449602596 is handled. Duration 170 ms by bot id=7921957055
+2025-06-14 04:35:14,908 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:35:14 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:35:16,667 - __main__ - INFO - Received webhook request: {"update_id":449602597,
+"callback_query":{"id":"1869190633630399463","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1478,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749875714,"text":"\u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447, \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u0442 \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437\u0430 \ud83d\udc8e\n\n\u041e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u0412\u0430\u0448 \u0441\u0442\u0430\u0442\u0443\u0441: \u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50000 \u0440\u0443\u0431.\n\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439","entities":[{"offset":218,"length":21,"type":"text_link","url":"https://phystech-union.org/wp-content/uploads/2019/06/dog.pdf"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 04:35:16,668 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 04:35:17,060 - bot.handlers.payments - INFO - Sent payment link 375535b0-8ba2-4463-9725-38bc8df6e87b to user 435204858
+2025-06-14 04:35:17,069 - aiogram.event - INFO - Update id=449602597 is handled. Duration 401 ms by bot id=7921957055
+2025-06-14 04:35:17,069 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:35:16 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:35:23,094 - __main__ - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf0fc4-000f-5000-8000-13fff3d754e0",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf0fc4-000f-5000-8000-13fff3d754e0",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T04:35:22.734Z",
+    "created_at" : "2025-06-14T04:35:16.959Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "375535b0-8ba2-4463-9725-38bc8df6e87b"
+    }
+  }
+}
+2025-06-14 04:35:23,095 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:35:23 +0000] "POST /yookassa HTTP/1.1" 200 155 "-" "AHC/2.1"
+2025-06-14 04:35:28,979 - __main__ - INFO - Received webhook request: {"update_id":449602598,
+"message":{"message_id":1480,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749875728,"text":"/start payment_success_375535b0-8ba2-4463-9725-38bc8df6e87b","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 04:35:29,135 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: {'type': 'error', 'id': '01976cb8-a2d1-7fd2-8943-dbf24cc360fc', 'code': 'not_found', 'description': "Incorrect payment_id. Payment doesn't exist or access denied. Specify the payment ID created in your store.", 'parameter': 'payment_id'}
+2025-06-14 04:35:29,387 - aiogram.event - INFO - Update id=449602598 is handled. Duration 407 ms by bot id=7921957055
+2025-06-14 04:35:29,388 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:04:35:28 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 04:35:48,195 - __main__ - INFO - Bot stopped by user
+2025-06-14 05:17:22,276 - __main__ - INFO - Starting bot...
+2025-06-14 05:17:22,276 - __main__ - INFO - Routers and middleware included
+2025-06-14 05:17:22,277 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 05:17:22,277 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 05:17:22,278 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 05:17:22,278 - scheduler - INFO - Scheduler set up
+2025-06-14 05:17:22,296 - __main__ - INFO - Webhook set successfully
+2025-06-14 05:17:22,297 - __main__ - INFO - Web server started on port 8443
+2025-06-14 05:17:43,010 - __main__ - INFO - Received webhook request: {"update_id":449602599,
+"message":{"message_id":1482,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878262,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:17:43,012 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 05:17:43,071 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 05:17:43,071 - aiogram.event - INFO - Update id=449602599 is handled. Duration 60 ms by bot id=7921957055
+2025-06-14 05:17:43,072 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:17:43 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:17:45,796 - __main__ - INFO - Received webhook request: {"update_id":449602600,
+"callback_query":{"id":"1869190633084542058","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1483,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878263,"text":"\u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447, \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u0442 \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437\u0430 \ud83d\udc99\n\n\u041e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u0412\u0430\u0448 \u0441\u0442\u0430\u0442\u0443\u0441: \u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50000 \u0440\u0443\u0431.\n\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439","entities":[{"offset":218,"length":21,"type":"text_link","url":"https://phystech-union.org/wp-content/uploads/2019/06/dog.pdf"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 05:17:45,798 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 05:17:46,497 - dao.payment_dao - INFO - Saved payment: payment_id=ecd7a064-a07c-4afe-9ef3-22cee3981129, yookassa_id=2fdf19ba-000f-5001-8000-17ba535de74e, telegram_id=435204858
+2025-06-14 05:17:46,559 - bot.handlers.payments - INFO - Sent payment link ecd7a064-a07c-4afe-9ef3-22cee3981129 to user 435204858
+2025-06-14 05:17:46,611 - aiogram.event - INFO - Update id=449602600 is handled. Duration 814 ms by bot id=7921957055
+2025-06-14 05:17:46,612 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:17:45 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:17:53,867 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf19ba-000f-5001-8000-17ba535de74e",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf19ba-000f-5001-8000-17ba535de74e",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:17:52.680Z",
+    "created_at" : "2025-06-14T05:17:46.161Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "ecd7a064-a07c-4afe-9ef3-22cee3981129"
+    }
+  }
+}
+2025-06-14 05:17:54,479 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf19ba-000f-5001-8000-17ba535de74e, status=succeeded
+2025-06-14 05:17:54,582 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:17:54,586 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:17:54,587 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:17:54,607 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:17:54,608 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:17:53 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:17:57,110 - __main__ - INFO - Received webhook request: {"update_id":449602601,
+"message":{"message_id":1485,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878277,"text":"/start payment_success_ecd7a064-a07c-4afe-9ef3-22cee3981129","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:17:57,111 - bot.handlers.start - INFO - Checking payment via deep-link for user 435204858: ecd7a064-a07c-4afe-9ef3-22cee3981129
+2025-06-14 05:17:57,338 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:17:57,340 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:17:57,341 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:17:57,347 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:17:57,374 - aiogram.event - INFO - Update id=449602601 is handled. Duration 262 ms by bot id=7921957055
+2025-06-14 05:17:57,374 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:17:57 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:18:03,879 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf19ba-000f-5001-8000-17ba535de74e",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf19ba-000f-5001-8000-17ba535de74e",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:17:52.680Z",
+    "created_at" : "2025-06-14T05:17:46.161Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "ecd7a064-a07c-4afe-9ef3-22cee3981129"
+    }
+  }
+}
+2025-06-14 05:18:03,881 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf19ba-000f-5001-8000-17ba535de74e, status=succeeded
+2025-06-14 05:18:03,883 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:18:03,884 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:18:03,884 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:18:03,890 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:18:03,890 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:18:03 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:18:41,615 - __main__ - INFO - Bot stopped by user
+2025-06-14 05:19:06,633 - __main__ - INFO - Starting bot...
+2025-06-14 05:19:06,633 - __main__ - INFO - Routers and middleware included
+2025-06-14 05:19:06,633 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 05:19:06,634 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 05:19:06,634 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 05:19:06,634 - scheduler - INFO - Scheduler set up
+2025-06-14 05:19:06,655 - __main__ - INFO - Webhook set successfully
+2025-06-14 05:19:06,656 - __main__ - INFO - Web server started on port 8443
+2025-06-14 05:19:25,298 - __main__ - INFO - Received webhook request: {"update_id":449602602,
+"message":{"message_id":1487,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878365,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:19:25,300 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 05:19:25,477 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 05:19:25,477 - aiogram.event - INFO - Update id=449602602 is handled. Duration 178 ms by bot id=7921957055
+2025-06-14 05:19:25,478 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:19:25 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:19:30,266 - __main__ - INFO - Received webhook request: {"update_id":449602603,
+"callback_query":{"id":"1869190634436120234","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1488,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878365,"text":"\u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447, \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u0442 \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437\u0430 \ud83d\udc99\n\n\u041e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u0412\u0430\u0448 \u0441\u0442\u0430\u0442\u0443\u0441: \u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50000 \u0440\u0443\u0431.\n\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439","entities":[{"offset":218,"length":21,"type":"text_link","url":"https://phystech-union.org/wp-content/uploads/2019/06/dog.pdf"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 05:19:30,268 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 05:19:30,680 - dao.payment_dao - INFO - Saved payment: payment_id=fc3946b0-29f1-4ca0-840e-ac850cbe8777, yookassa_id=2fdf1a22-000f-5000-b000-11a6745bc3ca, telegram_id=435204858
+2025-06-14 05:19:30,714 - bot.handlers.payments - INFO - Sent payment link fc3946b0-29f1-4ca0-840e-ac850cbe8777 to user 435204858
+2025-06-14 05:19:30,725 - aiogram.event - INFO - Update id=449602603 is handled. Duration 458 ms by bot id=7921957055
+2025-06-14 05:19:30,726 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:19:30 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:19:49,011 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1a22-000f-5000-b000-11a6745bc3ca",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1a22-000f-5000-b000-11a6745bc3ca",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:19:48.445Z",
+    "created_at" : "2025-06-14T05:19:30.556Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "fc3946b0-29f1-4ca0-840e-ac850cbe8777"
+    }
+  }
+}
+2025-06-14 05:19:49,086 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1a22-000f-5000-b000-11a6745bc3ca, status=succeeded
+2025-06-14 05:19:49,130 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:19:49,134 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:19:49,135 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:19:49,172 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:19:49,173 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:19:49 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:19:55,570 - __main__ - INFO - Received webhook request: {"update_id":449602604,
+"message":{"message_id":1490,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878395,"text":"/start payment_success_fc3946b0-29f1-4ca0-840e-ac850cbe8777","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:19:55,571 - bot.handlers.start - INFO - Checking payment via deep-link for user 435204858: fc3946b0-29f1-4ca0-840e-ac850cbe8777
+2025-06-14 05:19:55,762 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:19:55,764 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:19:55,764 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:19:55,773 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:19:55,808 - aiogram.event - INFO - Update id=449602604 is handled. Duration 237 ms by bot id=7921957055
+2025-06-14 05:19:55,808 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:19:55 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:19:59,026 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1a22-000f-5000-b000-11a6745bc3ca",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1a22-000f-5000-b000-11a6745bc3ca",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:19:48.445Z",
+    "created_at" : "2025-06-14T05:19:30.556Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "fc3946b0-29f1-4ca0-840e-ac850cbe8777"
+    }
+  }
+}
+2025-06-14 05:19:59,028 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1a22-000f-5000-b000-11a6745bc3ca, status=succeeded
+2025-06-14 05:19:59,029 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:19:59,031 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:19:59,031 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:19:59,041 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:19:59,041 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:19:59 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:20:09,973 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf19ba-000f-5001-8000-17ba535de74e",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf19ba-000f-5001-8000-17ba535de74e",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:17:52.680Z",
+    "created_at" : "2025-06-14T05:17:46.161Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "ecd7a064-a07c-4afe-9ef3-22cee3981129"
+    }
+  }
+}
+2025-06-14 05:20:09,976 - dao.payment_dao - WARNING - No payment found for yookassa_id=2fdf19ba-000f-5001-8000-17ba535de74e
+2025-06-14 05:20:10,037 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:20:10,041 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:20:10,041 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:20:10,058 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:20:10,058 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:20:09 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:20:41,037 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1a22-000f-5000-b000-11a6745bc3ca",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1a22-000f-5000-b000-11a6745bc3ca",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:19:48.445Z",
+    "created_at" : "2025-06-14T05:19:30.556Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "fc3946b0-29f1-4ca0-840e-ac850cbe8777"
+    }
+  }
+}
+2025-06-14 05:20:41,040 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1a22-000f-5000-b000-11a6745bc3ca, status=succeeded
+2025-06-14 05:20:41,069 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:20:41,072 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:20:41,073 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:20:41,085 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:20:41,086 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:20:41 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:21:20,363 - __main__ - INFO - Bot stopped by user
+2025-06-14 05:21:41,123 - __main__ - INFO - Starting bot...
+2025-06-14 05:21:41,123 - __main__ - INFO - Routers and middleware included
+2025-06-14 05:21:41,124 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 05:21:41,124 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 05:21:41,125 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 05:21:41,125 - scheduler - INFO - Scheduler set up
+2025-06-14 05:21:41,159 - __main__ - INFO - Webhook set successfully
+2025-06-14 05:21:41,159 - __main__ - INFO - Web server started on port 8443
+2025-06-14 05:21:54,517 - __main__ - INFO - Received webhook request: {"update_id":449602605,
+"message":{"message_id":1492,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878514,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:21:54,519 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 05:21:54,600 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 05:21:54,601 - aiogram.event - INFO - Update id=449602605 is handled. Duration 82 ms by bot id=7921957055
+2025-06-14 05:21:54,601 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:21:54 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:21:57,221 - __main__ - INFO - Received webhook request: {"update_id":449602606,
+"callback_query":{"id":"1869190635569250656","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1493,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878514,"text":"\u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447, \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u0442 \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437\u0430 \ud83d\udc99\n\n\u041e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u0412\u0430\u0448 \u0441\u0442\u0430\u0442\u0443\u0441: \u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50000 \u0440\u0443\u0431.\n\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439","entities":[{"offset":218,"length":21,"type":"text_link","url":"https://phystech-union.org/wp-content/uploads/2019/06/dog.pdf"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 05:21:57,222 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 05:21:57,689 - dao.payment_dao - INFO - Saved payment: payment_id=d7975317-08b0-4723-8a90-4109804a3026, yookassa_id=2fdf1ab5-000f-5001-8000-17866418d731, telegram_id=435204858
+2025-06-14 05:21:57,733 - bot.handlers.payments - INFO - Sent payment link d7975317-08b0-4723-8a90-4109804a3026 to user 435204858
+2025-06-14 05:21:57,752 - aiogram.event - INFO - Update id=449602606 is handled. Duration 530 ms by bot id=7921957055
+2025-06-14 05:21:57,753 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:21:57 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:22:04,729 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:22:04 +0000] "POST /webhook/yookassa HTTP/1.1" 404 175 "-" "AHC/2.1"
+2025-06-14 05:22:05,053 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1a22-000f-5000-b000-11a6745bc3ca",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1a22-000f-5000-b000-11a6745bc3ca",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:19:48.445Z",
+    "created_at" : "2025-06-14T05:19:30.556Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "fc3946b0-29f1-4ca0-840e-ac850cbe8777"
+    }
+  }
+}
+2025-06-14 05:22:05,057 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1a22-000f-5000-b000-11a6745bc3ca, status=succeeded
+2025-06-14 05:22:05,060 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:22:05,065 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:22:05,065 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:22:05,097 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:22:05,098 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:22:05 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:22:09,246 - __main__ - INFO - Received webhook request: {"update_id":449602607,
+"message":{"message_id":1495,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878529,"text":"/start payment_success_d7975317-08b0-4723-8a90-4109804a3026","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:22:09,247 - bot.handlers.start - INFO - Checking payment via deep-link for user 435204858: d7975317-08b0-4723-8a90-4109804a3026
+2025-06-14 05:22:09,486 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:22:09,488 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:22:09,488 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:22:09,499 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:22:09,663 - aiogram.event - INFO - Update id=449602607 is handled. Duration 416 ms by bot id=7921957055
+2025-06-14 05:22:09,664 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:22:09 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:22:14,751 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:22:14 +0000] "POST /webhook/yookassa HTTP/1.1" 404 175 "-" "AHC/2.1"
+2025-06-14 05:22:39,675 - __main__ - INFO - Bot stopped by user
+2025-06-14 05:28:45,740 - __main__ - INFO - Starting bot...
+2025-06-14 05:28:45,740 - __main__ - INFO - Routers and middleware included
+2025-06-14 05:28:45,740 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 05:28:45,741 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 05:28:45,741 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 05:28:45,742 - scheduler - INFO - Scheduler set up
+2025-06-14 05:28:45,762 - __main__ - INFO - Webhook set successfully
+2025-06-14 05:28:45,763 - __main__ - INFO - Web server started on port 8443
+2025-06-14 05:29:00,697 - __main__ - INFO - Received webhook request: {"update_id":449602608,
+"message":{"message_id":1497,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878940,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:29:00,699 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 05:29:00,861 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 05:29:00,862 - aiogram.event - INFO - Update id=449602608 is handled. Duration 163 ms by bot id=7921957055
+2025-06-14 05:29:00,862 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:29:00 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:29:05,423 - __main__ - INFO - Received webhook request: {"update_id":449602609,
+"callback_query":{"id":"1869190635919997869","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1498,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878940,"text":"\u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447, \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u0442 \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437\u0430 \ud83d\udc99\n\n\u041e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u0412\u0430\u0448 \u0441\u0442\u0430\u0442\u0443\u0441: \u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50000 \u0440\u0443\u0431.\n\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439","entities":[{"offset":218,"length":21,"type":"text_link","url":"https://phystech-union.org/wp-content/uploads/2019/06/dog.pdf"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 05:29:05,425 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 05:29:05,907 - dao.payment_dao - INFO - Saved payment: payment_id=a029c396-cbd6-4c9d-89c7-cef9e58f8700, yookassa_id=2fdf1c61-000f-5000-b000-10d3e756f5b3, telegram_id=435204858
+2025-06-14 05:29:05,963 - bot.handlers.payments - INFO - Sent payment link a029c396-cbd6-4c9d-89c7-cef9e58f8700 to user 435204858
+2025-06-14 05:29:05,982 - aiogram.event - INFO - Update id=449602609 is handled. Duration 558 ms by bot id=7921957055
+2025-06-14 05:29:05,983 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:29:05 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:29:11,960 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:29:11.691Z",
+    "created_at" : "2025-06-14T05:29:05.727Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "a029c396-cbd6-4c9d-89c7-cef9e58f8700"
+    }
+  }
+}
+2025-06-14 05:29:12,105 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1c61-000f-5000-b000-10d3e756f5b3, status=succeeded
+2025-06-14 05:29:12,221 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:29:12,224 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:29:12,224 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:29:15,260 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:29:15,261 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:29:11 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:29:18,677 - __main__ - INFO - Received webhook request: {"update_id":449602610,
+"message":{"message_id":1501,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878958,"text":"/start payment_success_a029c396-cbd6-4c9d-89c7-cef9e58f8700","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:29:18,679 - bot.handlers.start - INFO - Checking payment via deep-link for user 435204858: a029c396-cbd6-4c9d-89c7-cef9e58f8700
+2025-06-14 05:29:18,894 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:29:18,896 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:29:18,897 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:29:21,928 - bot.handlers.start - ERROR - Error checking payment via deep-link for user 435204858: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:29:21,985 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:29:11.691Z",
+    "created_at" : "2025-06-14T05:29:05.727Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "a029c396-cbd6-4c9d-89c7-cef9e58f8700"
+    }
+  }
+}
+2025-06-14 05:29:21,987 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1c61-000f-5000-b000-10d3e756f5b3, status=succeeded
+2025-06-14 05:29:21,989 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:29:21,991 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:29:21,991 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:29:22,043 - aiogram.event - INFO - Update id=449602610 is handled. Duration 3365 ms by bot id=7921957055
+2025-06-14 05:29:22,044 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:29:18 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:29:25,139 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:29:25,140 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:29:21 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:29:58,989 - __main__ - INFO - Received webhook request: {"update_id":449602611,
+"message":{"message_id":1505,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878998,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:29:58,991 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 05:29:59,040 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 05:29:59,040 - aiogram.event - INFO - Update id=449602611 is handled. Duration 49 ms by bot id=7921957055
+2025-06-14 05:29:59,041 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:29:58 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:30:00,792 - __main__ - INFO - Received webhook request: {"update_id":449602612,
+"callback_query":{"id":"1869190635159139889","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1506,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749878999,"text":"\u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447, \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u0442 \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437\u0430 \ud83d\udc99\n\n\u041e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u0412\u0430\u0448 \u0441\u0442\u0430\u0442\u0443\u0441: \u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50000 \u0440\u0443\u0431.\n\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439","entities":[{"offset":218,"length":21,"type":"text_link","url":"https://phystech-union.org/wp-content/uploads/2019/06/dog.pdf"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 05:30:00,794 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 05:30:01,280 - dao.payment_dao - INFO - Saved payment: payment_id=e43558f6-dbf9-4111-95c7-a0a7b4d9285d, yookassa_id=2fdf1c99-000f-5001-9000-1af7c06c20f9, telegram_id=435204858
+2025-06-14 05:30:01,339 - bot.handlers.payments - INFO - Sent payment link e43558f6-dbf9-4111-95c7-a0a7b4d9285d to user 435204858
+2025-06-14 05:30:01,360 - aiogram.event - INFO - Update id=449602612 is handled. Duration 566 ms by bot id=7921957055
+2025-06-14 05:30:01,360 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:30:00 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:30:04,001 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:29:11.691Z",
+    "created_at" : "2025-06-14T05:29:05.727Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "a029c396-cbd6-4c9d-89c7-cef9e58f8700"
+    }
+  }
+}
+2025-06-14 05:30:04,005 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1c61-000f-5000-b000-10d3e756f5b3, status=succeeded
+2025-06-14 05:30:04,008 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:30:04,021 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:30:04,021 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:30:07,080 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:30:07,081 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:30:04 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:30:12,500 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1c99-000f-5001-9000-1af7c06c20f9",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1c99-000f-5001-9000-1af7c06c20f9",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:30:12.214Z",
+    "created_at" : "2025-06-14T05:30:01.074Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "e43558f6-dbf9-4111-95c7-a0a7b4d9285d"
+    }
+  }
+}
+2025-06-14 05:30:12,765 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1c99-000f-5001-9000-1af7c06c20f9, status=succeeded
+2025-06-14 05:30:12,881 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:30:12,883 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:30:12,883 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:30:15,919 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:30:15,919 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:30:12 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:30:22,528 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1c99-000f-5001-9000-1af7c06c20f9",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1c99-000f-5001-9000-1af7c06c20f9",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:30:12.214Z",
+    "created_at" : "2025-06-14T05:30:01.074Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "e43558f6-dbf9-4111-95c7-a0a7b4d9285d"
+    }
+  }
+}
+2025-06-14 05:30:22,544 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1c99-000f-5001-9000-1af7c06c20f9, status=succeeded
+2025-06-14 05:30:22,546 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:30:22,572 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:30:22,572 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:30:25,606 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:30:25,607 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:30:22 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:31:04,570 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1c99-000f-5001-9000-1af7c06c20f9",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1c99-000f-5001-9000-1af7c06c20f9",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:30:12.214Z",
+    "created_at" : "2025-06-14T05:30:01.074Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "e43558f6-dbf9-4111-95c7-a0a7b4d9285d"
+    }
+  }
+}
+2025-06-14 05:31:04,572 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1c99-000f-5001-9000-1af7c06c20f9, status=succeeded
+2025-06-14 05:31:04,574 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:31:04,576 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:31:04,576 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:31:07,651 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:31:07,652 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:31:04 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:31:28,023 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:29:11.691Z",
+    "created_at" : "2025-06-14T05:29:05.727Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "a029c396-cbd6-4c9d-89c7-cef9e58f8700"
+    }
+  }
+}
+2025-06-14 05:31:28,025 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1c61-000f-5000-b000-10d3e756f5b3, status=succeeded
+2025-06-14 05:31:28,210 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:31:28,212 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:31:28,212 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:31:31,276 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:31:31,277 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:31:28 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:32:28,579 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1c99-000f-5001-9000-1af7c06c20f9",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1c99-000f-5001-9000-1af7c06c20f9",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:30:12.214Z",
+    "created_at" : "2025-06-14T05:30:01.074Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "e43558f6-dbf9-4111-95c7-a0a7b4d9285d"
+    }
+  }
+}
+2025-06-14 05:32:28,586 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1c99-000f-5001-9000-1af7c06c20f9, status=succeeded
+2025-06-14 05:32:28,627 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:32:28,633 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:32:28,634 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:32:31,716 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:32:31,717 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:32:28 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:34:10,025 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf19ba-000f-5001-8000-17ba535de74e",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf19ba-000f-5001-8000-17ba535de74e",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:17:52.680Z",
+    "created_at" : "2025-06-14T05:17:46.161Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "ecd7a064-a07c-4afe-9ef3-22cee3981129"
+    }
+  }
+}
+2025-06-14 05:34:10,030 - dao.payment_dao - WARNING - No payment found for yookassa_id=2fdf19ba-000f-5001-8000-17ba535de74e
+2025-06-14 05:34:10,120 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:34:10,129 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:34:10,129 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:34:13,216 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:34:13,217 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:34:10 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:34:16,439 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1c61-000f-5000-b000-10d3e756f5b3",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:29:11.691Z",
+    "created_at" : "2025-06-14T05:29:05.727Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "a029c396-cbd6-4c9d-89c7-cef9e58f8700"
+    }
+  }
+}
+2025-06-14 05:34:16,441 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1c61-000f-5000-b000-10d3e756f5b3, status=succeeded
+2025-06-14 05:34:17,073 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:34:17,075 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:34:17,075 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:34:20,142 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:34:20,143 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:34:16 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:34:25,257 - __main__ - INFO - Bot stopped by user
+2025-06-14 05:36:49,213 - __main__ - INFO - Starting bot...
+2025-06-14 05:36:49,213 - __main__ - INFO - Routers and middleware included
+2025-06-14 05:36:49,213 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 05:36:49,214 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 05:36:49,214 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 05:36:49,214 - scheduler - INFO - Scheduler set up
+2025-06-14 05:36:49,952 - __main__ - INFO - Webhook set successfully
+2025-06-14 05:36:49,953 - __main__ - INFO - Web server started on port 8443
+2025-06-14 05:36:53,439 - __main__ - INFO - Received webhook request: {"update_id":449602613,
+"message":{"message_id":1516,"from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749879413,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-06-14 05:36:53,441 - bot.handlers.start - INFO - Processing /start for user 435204858
+2025-06-14 05:36:53,496 - bot.handlers.start - INFO - Sent welcome message to user 435204858
+2025-06-14 05:36:53,496 - aiogram.event - INFO - Update id=449602613 is handled. Duration 56 ms by bot id=7921957055
+2025-06-14 05:36:53,497 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:36:53 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:36:56,131 - __main__ - INFO - Received webhook request: {"update_id":449602614,
+"callback_query":{"id":"1869190635314011118","from":{"id":435204858,"is_bot":false,"first_name":"Alan","username":"alan_lebedev","language_code":"ru","is_premium":true},"message":{"message_id":1517,"from":{"id":7921957055,"is_bot":true,"first_name":"\u0427\u043b\u0435\u043d\u0441\u0442\u0432\u043e \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437","username":"MIPTPAYBot"},"chat":{"id":435204858,"first_name":"Alan","username":"alan_lebedev","type":"private"},"date":1749879413,"text":"\u0410\u043b\u0430\u043d \u0412\u0438\u0442\u0430\u043b\u044c\u0435\u0432\u0438\u0447, \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u0442 \u0424\u0438\u0437\u0442\u0435\u0445-\u0421\u043e\u044e\u0437\u0430 \ud83d\udc99\n\n\u041e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043e\u043f\u043b\u0430\u0442\u0443 \u0435\u0436\u0435\u0433\u043e\u0434\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0432\u0437\u043d\u043e\u0441\u0430.\n\n\u0412\u0430\u0448 \u0441\u0442\u0430\u0442\u0443\u0441: \u0410\u0441\u0441\u043e\u0446\u0438\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 | 50000 \u0440\u0443\u0431.\n\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u0439","entities":[{"offset":218,"length":21,"type":"text_link","url":"https://phystech-union.org/wp-content/uploads/2019/06/dog.pdf"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u043f\u043b\u0430\u0442\u0435","callback_data":"pay"}],[{"text":"\u0421\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438","url":"https://t.me/ofisFS"}]]}},"chat_instance":"3791523253817970959","data":"pay"}}
+2025-06-14 05:36:56,133 - bot.handlers.payments - INFO - Processing payment for user 435204858
+2025-06-14 05:36:56,600 - dao.payment_dao - INFO - Saved payment: payment_id=a0cce68e-ae45-464c-8d19-a06f9b11e327, yookassa_id=2fdf1e38-000f-5001-8000-179e38f3f9a1, telegram_id=435204858
+2025-06-14 05:36:56,647 - bot.handlers.payments - INFO - Sent payment link a0cce68e-ae45-464c-8d19-a06f9b11e327 to user 435204858
+2025-06-14 05:36:56,659 - aiogram.event - INFO - Update id=449602614 is handled. Duration 526 ms by bot id=7921957055
+2025-06-14 05:36:56,659 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:36:56 +0000] "POST /7921957055:AAH4n2asBu_--W6eYogTrJW4L3SOE_SpdgM HTTP/1.1" 200 155 "-" "-"
+2025-06-14 05:37:10,969 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1e38-000f-5001-8000-179e38f3f9a1",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1e38-000f-5001-8000-179e38f3f9a1",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:37:10.681Z",
+    "created_at" : "2025-06-14T05:36:56.454Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "a0cce68e-ae45-464c-8d19-a06f9b11e327"
+    }
+  }
+}
+2025-06-14 05:37:11,037 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1e38-000f-5001-8000-179e38f3f9a1, status=succeeded
+2025-06-14 05:37:11,092 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:37:11,095 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:37:11,096 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:37:14,128 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:37:14,129 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:37:10 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:37:21,016 - bot.handlers.payments - INFO - Received YooKassa webhook: {
+  "type" : "notification",
+  "event" : "payment.succeeded",
+  "object" : {
+    "id" : "2fdf1e38-000f-5001-8000-179e38f3f9a1",
+    "status" : "succeeded",
+    "amount" : {
+      "value" : "50000.00",
+      "currency" : "RUB"
+    },
+    "income_amount" : {
+      "value" : "48250.00",
+      "currency" : "RUB"
+    },
+    "description" : "Членский взнос: Ассоциированный партнер",
+    "recipient" : {
+      "account_id" : "1095024",
+      "gateway_id" : "2459989"
+    },
+    "payment_method" : {
+      "type" : "yoo_money",
+      "id" : "2fdf1e38-000f-5001-8000-179e38f3f9a1",
+      "saved" : true,
+      "status" : "active",
+      "title" : "YooMoney wallet 410011758831136",
+      "account_number" : "410011758831136"
+    },
+    "captured_at" : "2025-06-14T05:37:10.681Z",
+    "created_at" : "2025-06-14T05:36:56.454Z",
+    "test" : true,
+    "refunded_amount" : {
+      "value" : "0.00",
+      "currency" : "RUB"
+    },
+    "paid" : true,
+    "refundable" : true,
+    "metadata" : {
+      "telegram_id" : "435204858",
+      "cms_name" : "yookassa_sdk_python",
+      "payment_id" : "a0cce68e-ae45-464c-8d19-a06f9b11e327"
+    }
+  }
+}
+2025-06-14 05:37:21,018 - dao.payment_dao - INFO - Updated payment status: yookassa_id=2fdf1e38-000f-5001-8000-179e38f3f9a1, status=succeeded
+2025-06-14 05:37:21,020 - dao.user_dao - INFO - Retrieved 3 users
+2025-06-14 05:37:21,022 - dao.user_dao - INFO - Saved 3 users to users.csv
+2025-06-14 05:37:21,022 - dao.user_dao - INFO - Updated payment for user 435204858
+2025-06-14 05:37:24,066 - bot.handlers.payments - ERROR - Error processing YooKassa webhook: Telegram server says - Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard
+2025-06-14 05:37:24,067 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:05:37:21 +0000] "POST /yookassa HTTP/1.1" 500 177 "-" "AHC/2.1"
+2025-06-14 05:37:38,475 - __main__ - INFO - Bot stopped by user
+2025-06-14 11:21:22,608 - __main__ - INFO - Starting bot...
+2025-06-14 11:21:22,609 - __main__ - INFO - Routers and middleware included
+2025-06-14 11:21:22,609 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-14 11:21:22,610 - apscheduler.scheduler - INFO - Added job "check_subscriptions" to job store "default"
+2025-06-14 11:21:22,610 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-14 11:21:22,610 - scheduler - INFO - Scheduler set up
+2025-06-14 11:21:22,656 - __main__ - INFO - Webhook set successfully
+2025-06-14 11:21:22,657 - __main__ - INFO - Web server started on port 8443
+2025-06-14 11:22:13,536 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:11:22:13 +0000] "GET / HTTP/1.1" 404 175 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36"
+2025-06-14 11:22:13,807 - aiohttp.access - INFO - 127.0.0.1 [14/Jun/2025:11:22:13 +0000] "GET /favicon.ico HTTP/1.1" 404 175 "https://66e0-185-223-93-139.ngrok-free.app/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36"
+2025-06-14 12:30:42,973 - aiohttp.access - INFO - 18.206.168.24 [14/Jun/2025:12:30:42 +0000] "UNKNOWN / HTTP/1.0" 400 215 "-" "-"
+2025-06-14 13:51:10,840 - aiohttp.access - INFO - 165.227.27.132 [14/Jun/2025:13:51:10 +0000] "UNKNOWN / HTTP/1.0" 400 215 "-" "-"
+2025-06-14 14:21:30,403 - aiohttp.access - INFO - 20.168.120.101 [14/Jun/2025:14:21:30 +0000] "UNKNOWN / HTTP/1.0" 400 215 "-" "-"
