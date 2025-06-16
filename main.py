@@ -68,7 +68,7 @@ async def main():
     await on_startup(dp)
 
     webhook_path = f"/{BOT_TOKEN}"
-    webhook_url = f"https://0f46-185-223-93-139.ngrok-free.app{webhook_path}"
+    webhook_url = f"https://8ea5-185-223-93-139.ngrok-free.app{webhook_path}"
     try:
         await bot.set_webhook(
             url=webhook_url,

@@ -1,4 +1,5 @@
 from sqlalchemy.orm import sessionmaker
+from bot.db.database import SessionLocal
 from dao.models import User, engine
 from datetime import datetime, date
 import logging
@@ -33,9 +34,14 @@ class UserDAO:
                             status=str(row['status']),
                             contribution=int(row['contribution']),
                             last_payment_date=last_payment_date,
-                            payment_method_id=str(row['payment_method_id']) if pd.notna(row.get('payment_method_id')) else None
+                            payment_method_id=str(row['payment_method_id']) if pd.notna(row.get('payment_method_id')) else None,
+                            notified=int(row.get('notified', 0)),
+                            has_started = bool(row.get('has_started', False))
                         )
                         self.session.add(user)
+                    else:
+                        user.notified = int(row.get('notified', 0))
+                        user.has_started = bool(row.get('has_started', False))
                     self.user_cache[telegram_id] = user
                 self.session.commit()
                 logger.info(f"Loaded {len(df)} users from users.csv")
@@ -56,7 +62,9 @@ class UserDAO:
                 'status': user.status,
                 'contribution': user.contribution,
                 'last_payment_date': user.last_payment_date.isoformat() if user.last_payment_date else None,
-                'payment_method_id': user.payment_method_id
+                'payment_method_id': user.payment_method_id,
+                'notified': user.notified,
+                'has_started': user.has_started
             } for user in users]
             df = pd.DataFrame(data)
             df.to_csv(self.csv_path, index=False)
@@ -73,15 +81,17 @@ class UserDAO:
             self.user_cache[telegram_id] = user
         return user
 
-    def create_user(self, telegram_id: int, last_name: str, first_name: str, patronymic: str, status: str, contribution: int) -> bool:
+    def create_user(self, telegram_id: int, last_name: str, first_name: str, patronymic: str, status: str, username: str, contribution: int, has_started: bool = False) -> bool:
         try:
             user = User(
                 telegram_id=telegram_id,
+                username=username,
                 last_name=last_name,
                 first_name=first_name,
                 patronymic=patronymic,
                 status=status,
-                contribution=contribution
+                contribution=contribution,
+                has_started=has_started
             )
             self.session.add(user)
             self.session.commit()
@@ -113,6 +123,45 @@ class UserDAO:
             self.session.rollback()
             logger.error(f"Error updating payment for user {telegram_id}: {e}")
             return False
+
+    def mark_payment_failed(self, telegram_id: int) -> bool:
+        try:
+            user = self.session.query(User).filter_by(telegram_id=telegram_id).first()
+            if user:
+                user.notified = 0
+                self.session.commit()
+                self.user_cache[telegram_id] = user
+                logger.info(f"Marked user {telegram_id} as failed payment")
+                return True
+            return False
+        except Exception as e:
+            self.session.rollback()
+            logger.error(f"Error marking payment failed for user {telegram_id}: {e}")
+            return False
+
+    def set_has_started(self, telegram_id: int, value: bool = True) -> bool:
+        try:
+            user = self.session.query(User).filter_by(telegram_id=telegram_id).first()
+            if user:
+                user.has_started = value
+                self.session.commit()
+                self.user_cache[telegram_id] = user
+                self.save_users_to_csv()
+                logger.info(f"Set has_started={value} for user {telegram_id}")
+                return True
+            return False
+        except Exception as e:
+            self.session.rollback()
+            logger.error(f"Error setting has_started for user {telegram_id}: {e}")
+            return False
+
+    def update_user(self, user):
+        session = SessionLocal()
+        try:
+            session.merge(user)
+            session.commit()
+        finally:
+            session.close()
 
     def get_all_users(self):
         try:

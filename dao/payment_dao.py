@@ -18,7 +18,7 @@ class PaymentDAO:
                 yookassa_id=yookassa_id,
                 telegram_id=telegram_id,
                 status=status,
-                created_at=datetime.utcnow()
+                created_at=datetime.now()
             )
             self.session.add(payment)
             self.session.commit()

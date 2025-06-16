@@ -63,7 +63,8 @@ async def process_status(callback: CallbackQuery, state: FSMContext):
             first_name=user_data["first_name"],
             patronymic=user_data["patronymic"],
             status=status,
-            contribution=contribution
+            contribution=contribution,
+            username=callback.from_user.username
         )
         if success:
             # Удаляем сообщение о выборе статуса
@@ -80,8 +81,8 @@ async def process_status(callback: CallbackQuery, state: FSMContext):
             user = user_dao.get_user(callback.from_user.id)
             status_text = f"{user.status} | {user.contribution} руб."
             bot_message = await callback.message.answer(
-                f"{user.first_name} {user.patronymic or ''}, добро пожаловать в бот Физтех-Союза 💎\n\n"
-                f"Он поможет вам официально закрепить вступление и настроить автоматическую оплату ежегодного членского взноса.\n\n"
+                # f"{user.first_name} {user.patronymic or ''}, добро пожаловать в бот Физтех-Союза 💎\n\n"
+                # f"Он поможет вам официально закрепить вступление и настроить автоматическую оплату ежегодного членского взноса.\n\n"
                 f"Ваш статус: {status_text}\n\n"
                 f"[Договор пожертвований]({DOGOVOR_URL})",
                 reply_markup=get_welcome_keyboard(),

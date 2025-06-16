@@ -20,7 +20,7 @@ def get_newbie_success_keyboard():
 
 def get_member_success_keyboard_fir():
     return InlineKeyboardMarkup(inline_keyboard=[
-        [InlineKeyboardButton(text="Вступить в чат партнеров", url=PARTNERS_CHAT_URL)],
+        [InlineKeyboardButton(text="Вступить в чат ассоциированных партнеров", url=PARTNERS_CHAT_URL)],
     ])
 
 def get_member_success_keyboard_sec():
@@ -37,4 +37,9 @@ def get_reminder_keyboard():
 def get_admin_nonpayment_keyboard(telegram_id):
     return InlineKeyboardMarkup(inline_keyboard=[
         [InlineKeyboardButton(text="Связаться", url=f"https://t.me/{telegram_id}")]
+    ])
+
+def get_admin_notification_button(username):
+    return InlineKeyboardMarkup(inline_keyboard=[
+        [InlineKeyboardButton(text="Открыть чат", url=f"https://t.me/{username}")]
     ])

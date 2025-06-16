@@ -1,5 +1,6 @@
 from aiogram import Router, Bot
 from aiogram.types import Message, CallbackQuery
+from aiogram.enums import ParseMode
 from aiogram.fsm.context import FSMContext
 from aiogram.filters import Command
 from yookassa import Configuration, Payment
@@ -58,6 +59,7 @@ async def webhook_handler(request):
             payment_dao.update_payment_status(yookassa_id, "succeeded")
             user = user_dao.get_user(int(telegram_id))
             if user:
+                is_first_payment = user.last_payment_date is None
                 user_dao.update_payment(
                     telegram_id=int(telegram_id),
                     last_payment_date=datetime.now().date(),
@@ -65,22 +67,24 @@ async def webhook_handler(request):
                     status=user.status,
                     payment_method_id=payment_method_id
                 )
-                bot = request.app["bot"]
-                bot_message = await bot.send_message(
-                    chat_id=telegram_id,
-                    text="Успешно ✅\nБыть Физтехом — это навсегда!\n\nДобавляйтесь в наш чат ассоциированных партнёров.",
-                    reply_markup=get_member_success_keyboard_fir()
-                )
-                await asyncio.sleep(3)
-                await bot.send_message(
-                    chat_id=telegram_id,
-                    text="А чтобы быть в курсе новостей, инициатив и событий —\n"
-                         "обязательно подпишитесь на Telegram-канал «Физтех-Союз.Новости»\n\n"
-                         "При желании еще можете вступить в большой чат всех участников Физтех-Союза "
-                         "(включая владельцев карты Тинькофф-Физтех-Союз).",
-                    reply_markup=get_member_success_keyboard_sec()
-                )
-                logger.info(f"Payment succeeded: payment_id={payment_id}, yookassa_id={yookassa_id}, user={telegram_id}")
+                if is_first_payment:
+                    bot = request.app["bot"]
+                    bot_message = await bot.send_message(
+                        chat_id=telegram_id,
+                        text="Успешно ✅\nБыть Физтехом — это навсегда!\n\nДобавляйтесь в наш чат ассоциированных партнёров.",
+                        reply_markup=get_member_success_keyboard_fir()
+                    )
+                    await asyncio.sleep(5)
+                    await bot.send_message(
+                        chat_id=telegram_id,
+                        text="А чтобы быть в курсе новостей, инициатив и событий —\n"
+                        "обязательно подпишитесь на Telegram-канал <b>«Физтех-Союз.Новости»</b>\n\n"
+                        "При желании еще можете вступить в большой чат всех участников Физтех-Союза "
+                        "(включая владельцев карты Тинькофф-Физтех-Союз).",
+                        parse_mode="html",
+                        reply_markup=get_member_success_keyboard_sec()
+                    )
+                    logger.info(f"Payment succeeded: payment_id={payment_id}, yookassa_id={yookassa_id}, user={telegram_id}")
         return web.Response(text="OK")
     except Exception as e:
         logger.error(f"Error processing YooKassa webhook: {e}")
@@ -176,6 +180,7 @@ async def check_payment(message: Message, state: FSMContext):
             return
         payment = Payment.find_one(yookassa_id)
         if payment.status == "succeeded":
+            is_first_payment = user.last_payment_date is None
             payment_method_id = payment.payment_method.id if payment.payment_method else None
             user_dao.update_payment(
                 telegram_id=user.telegram_id,
@@ -184,25 +189,27 @@ async def check_payment(message: Message, state: FSMContext):
                 status=user.status,
                 payment_method_id=payment_method_id
             )
-            bot_message = await message.answer(
-                "Успешно ✅\nБыть Физтехом — это навсегда!\n\nДобавляйтесь в наш чат ассоциированных партнёров.",
-                reply_markup=get_member_success_keyboard_fir()
-            )
-            await state.update_data(message_ids=[bot_message.message_id], welcome_message_id=bot_message.message_id)
-            await asyncio.sleep(3)
-            second_message = await message.answer(
-                "А чтобы быть в курсе новостей, инициатив и событий —\n"
-                "обязательно подпишитесь на Telegram-канал «Физтех-Союз.Новости»\n\n"
-                "При желании еще можете вступить в большой чат всех участников Физтех-Союза "
-                "(включая владельцев карты Тинькофф-Физтех-Союз).",
-                reply_markup=get_member_success_keyboard_sec()
-            )
-            await state.update_data(
-                message_ids=[bot_message.message_id, second_message.message_id],
-                welcome_message_id=bot_message.message_id,
-                payment_id=None
-            )
-            logger.info(f"Payment {payment_id} confirmed for user {message.from_user.id}")
+            if is_first_payment:
+                bot_message = await message.answer(
+                    "Успешно ✅\nБыть Физтехом — это навсегда!\n\nДобавляйтесь в наш чат ассоциированных партнёров.",
+                    reply_markup=get_member_success_keyboard_fir()
+                )
+                await state.update_data(message_ids=[bot_message.message_id], welcome_message_id=bot_message.message_id)
+                await asyncio.sleep(5)
+                second_message = await message.answer(
+                    "А чтобы быть в курсе новостей, инициатив и событий —\n"
+                    "обязательно подпишитесь на Telegram-канал <b>«Физтех-Союз.Новости»</b>\n\n"
+                    "При желании еще можете вступить в большой чат всех участников Физтех-Союза "
+                    "(включая владельцев карты Тинькофф-Физтех-Союз).",
+                    parse_mode="html",
+                    reply_markup=get_member_success_keyboard_sec()
+                )
+                await state.update_data(
+                    message_ids=[bot_message.message_id, second_message.message_id],
+                    welcome_message_id=bot_message.message_id,
+                    payment_id=None
+                )
+                logger.info(f"Payment {payment_id} confirmed for user {message.from_user.id}")
         else:
             bot_message = await message.answer(
                 f"Платёж ещё не подтверждён. Статус: {payment.status}. Попробуйте позже.",

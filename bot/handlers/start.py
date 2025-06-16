@@ -1,8 +1,9 @@
 from aiogram import Router
 from aiogram.types import Message
+from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart
 from aiogram.fsm.context import FSMContext
-from bot.keyboards.inline import get_welcome_keyboard, get_member_success_keyboard_fir, get_member_success_keyboard_sec
+from bot.keyboards.inline import get_welcome_keyboard, get_member_success_keyboard_fir, get_member_success_keyboard_sec, get_reminder_keyboard
 from bot.states import RegistrationStates
 from dao.user_dao import UserDAO
 from dao.payment_dao import PaymentDAO
@@ -11,6 +12,7 @@ import logging
 import asyncio
 from datetime import datetime
 from yookassa import Payment
+from bot.db.database import SessionLocal
 
 router = Router()
 user_dao = UserDAO()
@@ -75,13 +77,14 @@ async def cmd_start_deep_link(message: Message, state: FSMContext):
                     reply_markup=get_member_success_keyboard_fir()
                 )
                 await state.update_data(message_ids=[bot_message.message_id], welcome_message_id=bot_message.message_id)
-                await asyncio.sleep(3)
+                await asyncio.sleep(5)
                 second_message = await message.answer(
-                    "А чтобы быть в курсе новостей, инициатив и событий —\n"
-                    "обязательно подпишитесь на Telegram-канал «Физтех-Союз.Новости»\n\n"
-                    "При желании еще можете вступить в большой чат всех участников Физтех-Союза "
-                    "(включая владельцев карты Тинькофф-Физтех-Союз).",
-                    reply_markup=get_member_success_keyboard_sec()
+                "А чтобы быть в курсе новостей, инициатив и событий —\n"
+                "обязательно подпишитесь на Telegram-канал <b>«Физтех-Союз.Новости»</b>\n\n"
+                "При желании еще можете вступить в большой чат всех участников Физтех-Союза "
+                "(включая владельцев карты Тинькофф-Физтех-Союз).",
+                parse_mode="html",
+                reply_markup=get_member_success_keyboard_sec()
                 )
                 await state.update_data(
                     message_ids=[bot_message.message_id, second_message.message_id],
@@ -109,6 +112,10 @@ async def cmd_start_deep_link(message: Message, state: FSMContext):
 async def cmd_start(message: Message, state: FSMContext):
     logger.info(f"Processing /start for user {message.from_user.id}")
     user = user_dao.get_user(message.from_user.id)
+
+    data = await state.get_data()
+    message_ids = data.get("message_ids", [])
+
     await _delete_old_messages(message, state)
     await state.clear()
     try:
@@ -117,18 +124,28 @@ async def cmd_start(message: Message, state: FSMContext):
         logger.debug(f"Failed to delete /start message: {e}")
 
     if user:
-        status_text = f"{user.status} | {user.contribution} руб."
+        if not message_ids:
+            status_text = f"{user.status} | {user.contribution} руб."
+            bot_message = await message.answer(
+                f"Добро пожаловать в бот Физтех-Союза 💙\n\n"
+                f"Он поможет вам официально закрепить вступление и настроить автоматическую оплату ежегодного членского взноса.\n\n"
+                f"Ваш статус: {status_text}\n\n"
+                f"[Договор пожертвований]({DOGOVOR_URL})",
+                reply_markup=get_welcome_keyboard(),
+                parse_mode="Markdown",
+                disable_web_page_preview=True
+            )
+            await state.update_data(message_ids=[bot_message.message_id], welcome_message_id=bot_message.message_id)
+            logger.info(f"Sent welcome message to user {message.from_user.id}")
+            return
+
         bot_message = await message.answer(
-            f"{user.first_name} {user.patronymic or ''}, добро пожаловать в бот Физтех-Союза 💙\n\n"
-            f"Он поможет вам официально закрепить вступление и настроить автоматическую оплату ежегодного членского взноса.\n\n"
-            f"Ваш статус: {status_text}\n\n"
-            f"[Договор пожертвований]({DOGOVOR_URL})",
-            reply_markup=get_welcome_keyboard(),
-            parse_mode="Markdown",
-            disable_web_page_preview=True
+            "В случае возникновения вопросов, Вы можете обратиться в службу поддержки.",
+            reply_markup=get_reminder_keyboard()
         )
-        await state.update_data(message_ids=[bot_message.message_id], welcome_message_id=bot_message.message_id)
-        logger.info(f"Sent welcome message to user {message.from_user.id}")
+        message_ids.append(bot_message.message_id)
+        await state.update_data(message_ids=message_ids, welcome_message_id=bot_message.message_id)
+        logger.info(f"Sent support message to user {message.from_user.id}")
     else:
         bot_message = await message.answer(
             "Добро пожаловать в бот Физтех-Союза 💙\n\nНапишите, пожалуйста, свои ФИО:"

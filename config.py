@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-BOT_USERNAME = "MIPTPAYBot"
+BOT_USERNAME = "phystech_union_bot"
 ADMIN_IDS = os.getenv("ADMIN_IDS", "").split(",")
 
 SUPPORT_URL = os.getenv("SUPPORT_URL")
